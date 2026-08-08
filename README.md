@@ -1,4 +1,7 @@
 # Brithany
+b.jpg
+flores.jpg
+
 
 <html>
 <head>
